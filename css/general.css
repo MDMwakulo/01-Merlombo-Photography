@@ -44,20 +44,41 @@ body {
 .heading-primary {
   font-size: 6.2rem;
   line-height: 1;
-  margin-bottom: 6.4rem;
 }
 
 .heading-secondary {
   font-size: 4.4rem;
   line-height: 1.12;
-  margin-bottom: 3rem;
 }
 
 .subheading {
   display: block;
   font-size: 1.6rem;
   font-weight: 600;
+}
+
+.mrb-64 {
+  margin-bottom: 6.4rem;
+}
+
+.mrb-44 {
+  margin-bottom: 4.4rem;
+}
+
+.mrb-30 {
   margin-bottom: 3rem;
+}
+
+.mrb-12 {
+  margin-bottom: 1.2rem;
+}
+
+.color-white {
+  color: #fff;
+}
+
+.color-snow {
+  color: #fafafa;
 }
 
 .btn,
@@ -67,10 +88,10 @@ body {
 
   text-decoration: none;
   background-color: #ff0000;
-  color: #fff;
+  color: #fafafa;
   font-weight: 600;
   font-size: 2rem;
-  padding: 1.6rem 2.4rem;
+  padding: 1.6rem 6.4rem;
   transition: all 0.3s;
 }
 
